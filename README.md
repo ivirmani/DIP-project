@@ -1,2 +1,2 @@
 # DIP-project
-Emotion Recognition With OpenCV
+Emotion Recognition With OpenCV in Python
