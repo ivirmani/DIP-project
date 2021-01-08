@@ -1,1 +1,1 @@
-# DIP-project-ERADICATE ALL RATS!
+# DIP-project
